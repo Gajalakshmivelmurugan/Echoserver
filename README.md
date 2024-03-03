@@ -64,10 +64,8 @@ print(f"Received {data!r}")
 
 
 ## OUTPUT:
-
-![ethical4](https://github.com/Gajalakshmivelmurugan/Echoserver/assets/144871940/0713ad4c-4a22-4597-bd06-f1633d9e7c93)
-
-![hacking2](https://github.com/Gajalakshmivelmurugan/Echoserver/assets/144871940/4bcbe366-6782-43a1-a149-4a8e599dcd58)
+![etical1](https://github.com/Gajalakshmivelmurugan/Echoserver/assets/144871940/92552dba-8967-4c98-b994-ea5bca845858)
+![hacking4](https://github.com/Gajalakshmivelmurugan/Echoserver/assets/144871940/91cb8dd3-816c-4b9d-8c9b-da035424cfac)
 
 
 ## RESULT:
