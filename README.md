@@ -24,7 +24,7 @@ Testing the server and client
 Name:Gajalakshmi.V
 reg no:212223040047
 
-### SERVER CODE:
+### SERVER CODE :
 
 import socket
 
