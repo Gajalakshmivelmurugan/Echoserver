@@ -20,7 +20,7 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-
+```
 Name:Gajalakshmi.V
 reg no:212223040047
 
@@ -61,7 +61,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 print(f"Received {data!r}")
 
-
+```
 
 ## OUTPUT:
 ![etical1](https://github.com/Gajalakshmivelmurugan/Echoserver/assets/144871940/92552dba-8967-4c98-b994-ea5bca845858)
